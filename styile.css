@@ -66,21 +66,147 @@
                 position: absolute;
 
                 }
-                .group36{margin 
-                    :446px 1000px 30px 230px ; display: flex;height: 180px;
-                    width: 1140px;
-                    left: 260px;
-                    top: 1194px;
-                    border-radius: 0px;
-                }                    
+                .group{ margin 
+                    :65px 230px 30px 230px ;
+                    
+                    
+                
+                }    .group1{ height: 260px;
+                    width: 1140px;margin:  65px 30px 30px 30px ;
+            border-radius: 0px;background: #ffff;
+                display: flex;justify-content: space-between;
+                
+                
+                    
+                    }                
                 
                   .group37{height: 260px;
-                    width: 360px;
+                    width: 360px;position: relative;
+                   
+                    
                    
                     }
+                    .group37text{position: absolute;height: 100px;display: flex;align-items: center;
+                        width: 154px;border: 1px solid rgb(218, 212, 212);
+                    
+                        top: 80px;
+                        left: 110px;
+                        border-radius: nullpx;
+                        
+                                justify-content: center;}
+                        .textOFF{font-family: Lato;
+                            font-size: 16px;
+                            font-style: normal;
+                            font-weight: 400;
+                            line-height: 19px;
+                            letter-spacing: 0em;
+                            text-align: center;color: #FFFFFF;
+                            
+                           
+                            }
+                            .textFOR{font-family: Lato;
+                                
+                                
+                                font-family: Lato;
+                                font-size: 24px;
+                                font-style: normal;
+                                font-weight: 700;
+                                line-height: 29px;
+                                letter-spacing: 0em;
+                                text-align: center;
+                                color: crimson;}
+                              
+                                .img layer{width: 100%;}
+                               
+.group37:hover{filter: brightness(40%);}
+
+
+                       
+                       
                     .group38{height: 260px;
                         width: 360px;
                         
                         }
                         .group39{height: 260px;
                             width: 360px;}
+                            .group40{
+                                height: 180px;
+                             width: 1140px;
+                             left: 268px;
+                              top: 1194px;
+                              border-radius: 0px;position: absolute;
+                              
+
+                                }
+                                .group37text:hover{box-shadow:   0 0 10px; color: #FFFFFF;}
+
+                           .lux{height: 50px;
+                            
+                           margin: -160px 500px 30px 500px;
+                            
+                            border-radius: nullpx;height: 100px;align-items: center;
+                            width: 240px;border: 1px solid rgb(218, 212, 212);
+                        
+                            top: 80px;
+                            left: 110px;
+                            border-radius: nullpx;
+                            
+                                    justify-content: center;}
+                                    .lux:hover{box-shadow:   0 0 10px; color: #ffff;}
+                            .group40:hover{filter: brightness(40%);}
+  
+              
+                .fet-items{
+                    
+                    padding: 300px 260px;
+                    }.container-fet{
+                       display: flex;justify-content: space-between;flex-wrap: wrap;}    
+                       .fet-box{height: 50px;
+                        width: 182px;
+                    
+                        border-radius: nullpx;
+                        }
+                          .fet-heading{
+                       
+                        
+                        ;}                     
+                         .fet-par{height: 15px;
+                            width: 500px;
+                            padding: 30px 500px 30px 500px;font-family: Lato;
+                            font-size: 14px;
+                            font-style: normal;
+                            font-weight: 400;
+                            line-height: 17px;
+                            letter-spacing: 0em;
+                            text-align: left;position: absolute;
+                            
+                           
+}
+                                   
+                            
+                    .product-box{height: 581px;
+                        width: 360px;
+                        left: 230px;
+                        top: 1577px;
+                        border-radius: 0px;
+                        }      
+                    
+                    
+                    
+                        .product-box:hover{box-shadow: 0 0 30px;}
+                        .product-box-layer51{background-color: #F7E4E2;
+                            ;}
+                           
+                            .product-price{height: 19px;
+                                width: 52px;font-family: Lato;
+                                font-size: 16px;
+                                font-style: normal;
+                                font-weight: 400;
+                                line-height: 19px;
+                                letter-spacing: 0em;
+                                text-align: left;
+                                
+                                color:  #F16D7F;
+                                ;
+                                }
+                            
