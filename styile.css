@@ -1,9 +1,9 @@
+
+.header{ background: #222222;height: 75px;width: 1663px;}
 .container{height: 75px;
-    width: 1600px;
-    left: 0px;
-    top: 0px;
-    border-radius: 0px;
-    background: #222222;
+    width: 1663px;
+    
+   ;
 }
 .forma1{height: 38px;
     width: 44px;
@@ -11,21 +11,23 @@
     top: 18px;
     border-radius: 0px;
     position: absolute;}
-    .forma2{height: 26.791973114013672px;
-        width: 26.001638412475586px;
+    .forma2{height: 50.791973114013672px;
+        width: 50.001638412475586px;
         left: 315.998046875px;
         top: 28.2109375px;
-        border-radius: 0px;
-        position: absolute;background: #E8E8E8;
+        
+        position: absolute;
+        
     }
-    .forma3{height: 23px;
+    
+    .forma3{height: 32px;
         width: 32px;
         left: 1201px;
         top: 30px;
         border-radius: 0px;position: absolute;
         background: #E8E8E8;
 }.forma4{height: 29px;
-    width: 29px;
+    width: 30px;
     left: 1266px;
     top: 26px;
     border-radius: 0px;
@@ -44,18 +46,16 @@
 
         }
             .content{display: flex;height: 764px;
-                width: 1600px;
-                left: 0px;
-                top: 75px;
-                border-radius: 0px;
+                width: 1663px;
+               
+                
                 background: #F1E4E6}
 
 
-        .item-flex{height: 764px;
-            width: 1600px;
-            left: 0px;
-            top: 75px;
-            border-radius: 0px;background: #F1E4E6;
+       .item-flex{ 
+            
+           
+           background: #F1E4E6;
 
             }
             .logo{height: 93px;
@@ -154,48 +154,72 @@
                                     justify-content: center;}
                                     .lux:hover{box-shadow:   0 0 10px; color: #ffff;}
                             .group40:hover{filter: brightness(40%);}
-  
+                            
+                                           
               
                 .fet-items{
                     
-                    padding: 300px 260px;
+                    padding: 200px 260px 180px 260px;
                     }.container-fet{
-                       display: flex;justify-content: space-between;flex-wrap: wrap;}    
-                       .fet-box{height: 50px;
-                        width: 182px;
+                       display: flex;justify-content: space-between;flex-wrap: wrap;}  
+                        .fw-box{height: 50px;
+                        width: 100%;text-align: center;
                     
-                        border-radius: nullpx;
-                        }
-                          .fet-heading{
-                       
                         
-                        ;}                     
-                         .fet-par{height: 15px;
-                            width: 500px;
-                            padding: 30px 500px 30px 500px;font-family: Lato;
-                            font-size: 14px;
+                        }
+                        fw-heading{font-family: Lato;
+                            font-size: 30px;
                             font-style: normal;
                             font-weight: 400;
-                            line-height: 17px;
-                            letter-spacing: 0em;
-                            text-align: left;position: absolute;
+                           
+                            }
+                        .fw-price{height: 50px;
+                            width: 100%;
                             
                            
-}
-                                   
+                            text-align: center;
+                            }
+
+                        .fw-par{font-family: Lato;
+                            font-size: 14px;
+                            font-style: normal;
+                            
+                            
+                           
+} 
+                      
+                                          
+                       
                             
                     .product-box{height: 581px;
                         width: 360px;
                         left: 230px;
                         top: 1577px;
-                        border-radius: 0px;
+                        border-radius: 0px;margin-top: 100px;
                         }      
                     
                     
                     
                         .product-box:hover{box-shadow: 0 0 30px;}
-                        .product-box-layer51{background-color: #F7E4E2;
-                            ;}
+                        .product-box-layer51{background-color: #F7E4E2;display: flex 
+                            ;justify-content: center;}
+                            .product-heading{font-family: Lato;
+                                font-size: 13px;
+                                font-style: normal;
+                                font-weight: 400;
+                                line-height: 16px;
+                                letter-spacing: 0em;
+                                text-align: left;color: black;
+                                }
+                                .product-prg{font-family: Lato;
+                                    font-size: 14px;
+                                    font-style: normal;
+                                    font-weight: 300;
+                                    line-height: 17px;
+                                    letter-spacing: 0em;
+                                    text-align: left;color: #5D5D5D;
+                                    ;
+                                    }
                            
                             .product-price{height: 19px;
                                 width: 52px;font-family: Lato;
@@ -207,6 +231,151 @@
                                 text-align: left;
                                 
                                 color:  #F16D7F;
-                                ;
+                                ;text-decoration: none;
                                 }
+                                .feature{height: 341px;
+                                    width: 1663px;
+                                   
+                                    top: 2960px;
+                                    border-radius: 0px;
+                                    background: #222224;
+
+
+}
+.red-border{
+    height: 48px;
+width: 250px;margin: 20px 250px 30px 700px
+
+;border: 3px solid  #F26376;
+;}
+
+    
+    .brow{display: flex;justify-content: center;height: 19px;
+        font-family: Lato;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 40px;
+        letter-spacing: 0em;
+        color:  #F26376;
+
+        
+        }
+        .footer{height: 730px; width: 1663px;}
+
+.feature{display: flex;justify-content:space-around;}
                             
+.feature-box{height: 134.00390625px;
+    width: 360px;
+    margin-top: 100px;border: 1px solid rgb(247, 240, 240);;
+
+    }
+    .layer41{margin-bottom: 0px;;width: 1663px;display: flex;justify-content: space-between;}
+.layer41-img{width: 100%;
+    }
+    .info-box{height: 224px;
+        width: 359px;
+        left: 230.287109375px;
+       margin: -350px 200px
+       ;
+        }
+        .woman{height: 153.83132934570312px;
+            width: 154.0238800048828px;margin: 10px 20px 10px 120px;}
+            .par-woman{font-family: Lato;
+                font-size: 20px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 24px;
+                letter-spacing: 0em;
+                text-align: center;
+                color:#FFFFFF;
+
+                }
+                .sub{font-family: Lato;
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 30px;
+                    letter-spacing: 0em;
+                    text-align: center;
+                    
+                    font-family: Lato;
+                    font-size: 24px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 40px;
+                    letter-spacing: 0em;
+                    text-align: center;
+                    
+                    font-family: Lato;
+                    font-size: 24px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 40px;
+                    letter-spacing: 0em;
+                    text-align: center;
+                    }
+                    .input{height: 49px;
+                        width: 256px;
+                        left: 917px;
+                        top: 243px;
+                        border-radius: 0px;
+                        }
+           
+        .brand{height: 79px;
+            width: 1663px;background: #222224;
+            ;
+
+   
+  
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            .brand{display: flex;justify-content:space-around;}
+            .copyrite-box{height: 19px;
+                width: 332px;
+                left: 235px;margin-top: 30px;
+                text-align: center;
+            
+}
+.copyrite{font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;color: #FFFFFF;}
+                .icons-box{height: 35px ;width: 150px;right: 345px;margin-top: 22px;display: flex;justify-content: space-between ;}
+                
+                .icons{height: 32px;
+                    width: 31.450586318969727px;
+                    left: 1222px;
+                    top: 3773px;display: flex;justify-content: center;
+                    border-radius: 0px;
+                    }
+                    .face:hover {box-shadow: 0 0 35px;color: aqua;}
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                   
