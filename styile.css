@@ -291,14 +291,7 @@ width: 250px;margin: 20px 250px 30px 700px
                 color:#FFFFFF;
 
                 }
-                .sub{font-family: Lato;
-                    font-size: 18px;
-                    font-style: normal;
-                    font-weight: 400;
-                    line-height: 30px;
-                    letter-spacing: 0em;
-                    text-align: center;
-                    
+                .sub{
                     font-family: Lato;
                     font-size: 24px;
                     font-style: normal;
@@ -307,13 +300,7 @@ width: 250px;margin: 20px 250px 30px 700px
                     letter-spacing: 0em;
                     text-align: center;
                     
-                    font-family: Lato;
-                    font-size: 24px;
-                    font-style: normal;
-                    font-weight: 400;
-                    line-height: 40px;
-                    letter-spacing: 0em;
-                    text-align: center;
+                  
                     }
                     .input{height: 49px;
                         width: 256px;
@@ -321,6 +308,14 @@ width: 250px;margin: 20px 250px 30px 700px
                         top: 243px;
                         border-radius: 0px;
                         }
+                        .form{}
+                    .form-label{height: 30px;
+                        width: 100px;margin: -5px;
+                        
+                        ;color:#FFFFFF;
+                        border-radius: 0px 10px 10px 0px;
+                         background: #F16D7F;
+                        ;}
            
         .brand{height: 79px;
             width: 1663px;background: #222224;
@@ -329,7 +324,7 @@ width: 250px;margin: 20px 250px 30px 700px
    
   
     }
-
+.form-input{border-radius: 10px 0 0 10px;}
 
 
 
