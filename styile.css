@@ -246,9 +246,8 @@
 }
 .red-border{
     height: 48px;
-width: 250px;margin: 20px 250px 30px 700px
-
-;border: 3px solid  #F26376;
+width: 250px;margin: 0px 250px 0px 700px;margin-bottom: 100px
+;margin-top: -100px; border: 3px solid  #F26376;
 ;}
 .anc-brow{text-decoration: none;}
 
@@ -270,16 +269,48 @@ width: 250px;margin: 20px 250px 30px 700px
                             
 .feature-box{height: 134.00390625px;
     width: 360px;
-    margin-top: 100px;border: 1px solid rgb(247, 240, 240);;
-
+    margin-top: 100px;position: relative;
     }
+    .car{height: 31.9345703125px;
+        width: 44.98904037475586px;
+        left: 160.029296875px
+        ;position: absolute;
+        
+        
+}.deliv-box{height: 24px;
+    width: 200px;
+    left: 80.3359375px;
+    margin-top: 40px;
+    position: absolute;}
+.deliv{
+    font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;color: #FBFBFB;
+}
+.next-box{height: 34px;
+    width: 360px;
+    margin-top: 70px ;
+position: absolute;
+    
+    }
+    .next{font-family: Lato;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 17px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #FBFBFB;
+}
     .layer41{margin-bottom: 0px;;width: 1663px;display: flex;justify-content: space-between;}
 .layer41-img{width: 100%;
     }
     .info-box{height: 224px;
-        width: 359px;
-        left: 230.287109375px;
-       margin: -350px 200px
+       margin: -350px 150px
        ;
         }
         .woman{height: 153.83132934570312px;
@@ -312,40 +343,52 @@ width: 250px;margin: 20px 250px 30px 700px
                         border-radius: 0px;
                         }
                         
-                    .form-label{height: 30px;
+                    .form-label{height: 50px;
                         width: 100px;margin: -5px;
                         
                         ;color:#FFFFFF;
-                        border-radius: 0px 10px 10px 0px;
+                        border-radius: 0px 20px 20px 0px;
                          background: #F16D7F;
                         ;}
+                        .form{height: 49px;
+                            width: 356px;
+                            margin-top: 70px;
+                            left: 1130px;
+                          
+                          position: absolute;
+                            }
            
         .brand{height: 79px;
             width: 1663px;background: #222224;
-            ;
+            ;}
 
-   
+     .par-new{ font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: center;width: 500px;
+   }
   
-    }
-.form-input{border-radius: 10px 0 0 10px;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+.form-input{height: 50px;width: ; border-radius: 20px 0 0 20px;}
             .brand{display: flex;justify-content:space-around;}
             .copyrite-box{height: 19px;
                 width: 332px;
